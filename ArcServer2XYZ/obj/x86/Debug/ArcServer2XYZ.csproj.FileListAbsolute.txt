@@ -1,0 +1,17 @@
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\obj\x86\Debug\MapCacheArcServer2XYZ.exe
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\obj\x86\Debug\MapCacheArcServer2XYZ.pdb
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\bin\Debug\MapCacheArcServer2XYZ.exe
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\bin\Debug\MapCacheArcServer2XYZ.pdb
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\obj\x86\Debug\MapCacheArcServer2XYZ.Form1.resources
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\项目代码\2019\200\8MapCache\MapCacheArcServer2XYZ\ArcServer2XYZ\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\bin\Debug\MapCacheArcServer2XYZ.exe
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\bin\Debug\MapCacheArcServer2XYZ.pdb
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\ArcServer2XYZ.csprojAssemblyReference.cache
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\MapCacheArcServer2XYZ.Form1.resources
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\ArcServer2XYZ.csproj.GenerateResource.cache
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\ArcServer2XYZ.csproj.CoreCompileInputs.cache
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\ArcServer2XYZ.csproj.CopyComplete
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\MapCacheArcServer2XYZ.exe
+E:\2021美图项目\MapCacheArcServer2XYZ-master\ArcServer2XYZ\obj\x86\Debug\MapCacheArcServer2XYZ.pdb
